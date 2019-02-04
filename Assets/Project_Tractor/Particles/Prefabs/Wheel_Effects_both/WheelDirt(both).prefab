@@ -50,7 +50,7 @@ ParticleSystem:
   ringBufferLoopRange: {x: 0, y: 1}
   looping: 1
   prewarm: 0
-  playOnAwake: 0
+  playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
   useRigidbodyForVelocity: 1
@@ -4707,7 +4707,7 @@ ParticleSystem:
   ringBufferLoopRange: {x: 0, y: 1}
   looping: 1
   prewarm: 0
-  playOnAwake: 0
+  playOnAwake: 1
   useUnscaledTime: 0
   autoRandomSeed: 1
   useRigidbodyForVelocity: 1
@@ -9323,11 +9323,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 6549876076735401151}
     m_Modifications:
-    - target: {fileID: 4981699133560706433, guid: 6afcc067ad4744f4a88a8929fb8772a7,
-        type: 3}
-      propertyPath: m_Name
-      value: Traktor_02
-      objectReference: {fileID: 0}
     - target: {fileID: 8913086486262541495, guid: 6afcc067ad4744f4a88a8929fb8772a7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -9392,6 +9387,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 4981699133560706433, guid: 6afcc067ad4744f4a88a8929fb8772a7,
+        type: 3}
+      propertyPath: m_Name
+      value: Traktor_02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6afcc067ad4744f4a88a8929fb8772a7, type: 3}

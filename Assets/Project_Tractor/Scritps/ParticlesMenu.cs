@@ -5,7 +5,7 @@ using UnityEngine.UI;
 
 public class ParticlesMenu : MonoBehaviour
 {
-    public ParticleExamples[] particleSystems;
+    public ParticlesExamples[] particleSystems;
     //public GameObject gunGameObject;
     private int currentIndex;
     private GameObject currentGO;
