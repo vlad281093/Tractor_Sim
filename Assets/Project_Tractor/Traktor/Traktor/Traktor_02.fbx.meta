@@ -1,0 +1,186 @@
+fileFormatVersion: 2
+guid: da19b58e0bbb9e0478104c940250c0fa
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: arm_A_1
+    100002: arm_B_1
+    100004: arm_B_2
+    100006: arm_B_3
+    100008: Body
+    100010: Join_Back
+    100012: Join_Front
+    100014: pedal_Left
+    100016: pedal_Right
+    100018: steering_wheel
+    100020: //RootNode
+    100022: wheel_BLeft
+    100024: wheel_BLeft_grp
+    100026: wheel_BRight
+    100028: wheel_BRight_grp
+    100030: wheel_FLeft
+    100032: wheel_FLeft_grp
+    100034: wheel_FRight
+    100036: wheel_FRight_grp
+    400000: arm_A_1
+    400002: arm_B_1
+    400004: arm_B_2
+    400006: arm_B_3
+    400008: Body
+    400010: Join_Back
+    400012: Join_Front
+    400014: pedal_Left
+    400016: pedal_Right
+    400018: steering_wheel
+    400020: //RootNode
+    400022: wheel_BLeft
+    400024: wheel_BLeft_grp
+    400026: wheel_BRight
+    400028: wheel_BRight_grp
+    400030: wheel_FLeft
+    400032: wheel_FLeft_grp
+    400034: wheel_FRight
+    400036: wheel_FRight_grp
+    2100000: CM_Tractor_1_mtl1
+    2100002: CM_Tractor_1_mtl2
+    2100004: Join_mtl
+    2300000: arm_A_1
+    2300002: arm_B_1
+    2300004: arm_B_2
+    2300006: arm_B_3
+    2300008: Body
+    2300010: Join_Back
+    2300012: Join_Front
+    2300014: pedal_Left
+    2300016: pedal_Right
+    2300018: steering_wheel
+    2300020: wheel_BLeft
+    2300022: wheel_BLeft_grp
+    2300024: wheel_BRight
+    2300026: wheel_BRight_grp
+    2300028: wheel_FLeft
+    2300030: wheel_FLeft_grp
+    2300032: wheel_FRight
+    2300034: wheel_FRight_grp
+    3300000: arm_A_1
+    3300002: arm_B_1
+    3300004: arm_B_2
+    3300006: arm_B_3
+    3300008: Body
+    3300010: Join_Back
+    3300012: Join_Front
+    3300014: pedal_Left
+    3300016: pedal_Right
+    3300018: steering_wheel
+    3300020: wheel_BLeft
+    3300022: wheel_BLeft_grp
+    3300024: wheel_BRight
+    3300026: wheel_BRight_grp
+    3300028: wheel_FLeft
+    3300030: wheel_FLeft_grp
+    3300032: wheel_FRight
+    3300034: wheel_FRight_grp
+    4300000: Body
+    4300002: steering_wheel
+    4300004: arm_A_1
+    4300006: arm_B_1
+    4300008: arm_B_2
+    4300010: arm_B_3
+    4300012: pedal_Left
+    4300014: pedal_Right
+    4300016: wheel_FLeft_grp
+    4300018: wheel_FLeft
+    4300020: wheel_FRight_grp
+    4300022: wheel_FRight
+    4300024: wheel_BRight_grp
+    4300026: wheel_BRight
+    4300028: wheel_BLeft_grp
+    4300030: wheel_BLeft
+    4300032: Join_Front
+    4300034: Join_Back
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
