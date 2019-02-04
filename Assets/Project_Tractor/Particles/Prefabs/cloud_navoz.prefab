@@ -25,8 +25,8 @@ Transform:
   m_PrefabInstance: {fileID: 0}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 7635522294278242525}
-  m_LocalRotation: {x: -0.7071068, y: -0, z: -0, w: 0.7071068}
-  m_LocalPosition: {x: 0, y: 0, z: 5}
+  m_LocalRotation: {x: -0.7071068, y: 0, z: 0, w: 0.7071068}
+  m_LocalPosition: {x: 0, y: 0, z: 0}
   m_LocalScale: {x: 3, y: 3, z: 3}
   m_Children:
   - {fileID: 5652580797412295820}
@@ -285,7 +285,7 @@ ParticleSystem:
     startSize:
       serializedVersion: 2
       minMaxState: 3
-      scalar: 1.5
+      scalar: 1
       minScalar: 1
       maxCurve:
         serializedVersion: 2
@@ -668,7 +668,7 @@ ParticleSystem:
     donutRadius: 0.2
     m_Position: {x: 0, y: 0, z: 0}
     m_Rotation: {x: 0, y: 0, z: 0}
-    m_Scale: {x: 10, y: 5, z: 0.1}
+    m_Scale: {x: 10, y: 5, z: 0.01}
     placementMode: 0
     m_MeshMaterialIndex: 0
     m_MeshNormalOffset: 0
@@ -4661,11 +4661,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 7636815716732254533}
     m_Modifications:
-    - target: {fileID: 4981699133560706433, guid: 6afcc067ad4744f4a88a8929fb8772a7,
-        type: 3}
-      propertyPath: m_Name
-      value: Traktor_02
-      objectReference: {fileID: 0}
     - target: {fileID: 8913086486262541495, guid: 6afcc067ad4744f4a88a8929fb8772a7,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -4674,12 +4669,12 @@ PrefabInstance:
     - target: {fileID: 8913086486262541495, guid: 6afcc067ad4744f4a88a8929fb8772a7,
         type: 3}
       propertyPath: m_LocalPosition.y
-      value: 1.6666669
+      value: 1.3333335
       objectReference: {fileID: 0}
     - target: {fileID: 8913086486262541495, guid: 6afcc067ad4744f4a88a8929fb8772a7,
         type: 3}
       propertyPath: m_LocalPosition.z
-      value: 0
+      value: -0.16666651
       objectReference: {fileID: 0}
     - target: {fileID: 8913086486262541495, guid: 6afcc067ad4744f4a88a8929fb8772a7,
         type: 3}
@@ -4735,6 +4730,11 @@ PrefabInstance:
         type: 3}
       propertyPath: m_LocalScale.z
       value: 0.3333334
+      objectReference: {fileID: 0}
+    - target: {fileID: 4981699133560706433, guid: 6afcc067ad4744f4a88a8929fb8772a7,
+        type: 3}
+      propertyPath: m_Name
+      value: Traktor_02
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 6afcc067ad4744f4a88a8929fb8772a7, type: 3}
