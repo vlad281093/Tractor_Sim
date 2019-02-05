@@ -37,4 +37,10 @@ public class ParticlesMenu : MonoBehaviour
         description.text = particleSystems[currentIndex].description;
         navigationDetails.text = "" + (currentIndex + 1) + " out of " + particleSystems.Length.ToString();
     }
+
+    public void ExitButton()
+    {
+        Application.Quit();
+        Debug.Log("Exit");
+    }
 }
